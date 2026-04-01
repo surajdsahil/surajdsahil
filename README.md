@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Sahil</h1>
-<h3 align="center">🚀 Full Stack Java Developer | 💻 DSA Enthusiast | 🌐 Web Developer</h3>
+<h3 align="center">🚀 Full Stack Java Developer | 💻 DSA Enthusiast | ☁️ Cloud & DevOps Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;DSA+in+C%2B%2B;Building+Scalable+Web+Applications">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;AWS+%7C+Docker+%7C+Linux;DSA+in+C%2B%2B;Building+Scalable+Web+Applications">
 </p>
 
 ---
@@ -12,10 +12,10 @@
 ## 🧑‍💻 About Me
 
 * 🔭 Working on **Full Stack Java Projects**
-* 🌱 Learning **Spring Boot & Backend Development**
+* 🌱 Learning **Spring Boot, AWS, Docker**
 * 💡 Strong in **C++ & Data Structures**
-* 🎯 Goal: Become Software Engineer
-* ⚡ Love Problem Solving & Development
+* 🐧 Comfortable with **Linux Environment**
+* 🎯 Goal: Become Software Engineer / Backend Developer
 
 ---
 
@@ -45,10 +45,16 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### ⚙️ Tools & Platforms
+### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+### ⚙️ Tools & IDE
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
@@ -58,14 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surajdsahil&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajdsahil&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/surajdsahil/surajdsahil/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
